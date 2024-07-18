@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@farcaster/core": "^0.14.19",
     "@hookform/resolvers": "^3.9.0",
     "@noble/ed25519": "^2.1.0",
     "@radix-ui/react-checkbox": "^1.1.1",
