@@ -33,7 +33,7 @@ export const LoginWindow = ({
         ) : farcasterUser?.status === "pending_approval" ? (
           ""
         ) : (
-          <h2 className="text-center">Sign in to start casting photos</h2>
+          <h2 className="text-center">Sign in</h2>
         )}
       </div>
       <div className="flex w-full flex-col justify-center items-center">
